@@ -3,6 +3,7 @@ Source: https://magento.com/tech-resources/download
 
 ## Patches List
 
+* [PRODSECBUG-2198](patches/PRODSECBUG-2198)
 * [Authorize.Net Direct Post Signature Key Patch](patches/Authorizenet-Direct-Post-Signature-Key-Patch)
 * [MAGETWO-95591](patches/MAGETWO-95591)
 * [MAGETWO-93083](patches/MAGETWO-93083)
