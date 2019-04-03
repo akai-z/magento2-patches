@@ -1,6 +1,6 @@
 {
     "name": "akai/magento2-os-patches",
-    "description": "Magento open source 2.x patches",
+    "description": "Magento Open Source 2.x patches mirror repository",
     "license": "OSL-3.0",
     "authors": [
         {
