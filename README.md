@@ -3,6 +3,7 @@ The original source could be found [here](https://magento.com/tech-resources/dow
 
 ## Patches List
 
+* [PRODSECBUG-2432](patches/PRODSECBUG-2432)
 * [Admin Dashboard Image-Charts API Composer Patch](patches/Admin-Dashboard-Image-Charts-API-Composer-Patch)
 * [PRODSECBUG-2198](patches/PRODSECBUG-2198)
 * [Authorize.Net Direct Post Signature Key Patch](patches/Authorizenet-Direct-Post-Signature-Key-Patch)
