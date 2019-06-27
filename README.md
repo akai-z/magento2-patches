@@ -7,6 +7,7 @@ More details about the link and how it could be accessed could be found [here](h
 
 ## Patches List
 
+* [Scope parameter for Async/Bulk API patch](patches/Scope-parameter-Async⁄Bulk-API-patch)
 * [PRODSECBUG-2432](patches/PRODSECBUG-2432)
 * [Admin Dashboard Image-Charts API Composer Patch](patches/Admin-Dashboard-Image-Charts-API-Composer-Patch)
 * [PRODSECBUG-2198](patches/PRODSECBUG-2198)
