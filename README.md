@@ -9,6 +9,7 @@ A guide for applying patches through [Composer](https://getcomposer.org/) could 
 
 ## Patches List
 
+* [Catalog pagination issue on Elasticsearch 6.x](patches/Catalog-pagination-issue-on-Elasticsearch-6.x)
 * [PRODSECBUG-2233](patches/PRODSECBUG-2233)
 * [Scope parameter for Async/Bulk API patch](patches/Scope-parameter-Async⁄Bulk-API-patch)
 * [PRODSECBUG-2432](patches/PRODSECBUG-2432)
