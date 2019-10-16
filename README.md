@@ -10,6 +10,7 @@ A guide for applying patches through [Composer](https://getcomposer.org/) could 
 ## Patches List
 
 * [Catalog pagination issue on Elasticsearch 6.x](patches/Catalog-pagination-issue-on-Elasticsearch-6.x)
+* [EmailMessageInterface backward compatibility issue patch for Magento 2.3.3](patches/EmailMessageInterface-backward-compatibility-issue-patch-for-Magento-2.3.3)
 * [PRODSECBUG-2233](patches/PRODSECBUG-2233)
 * [Scope parameter for Async/Bulk API patch](patches/Scope-parameter-Async⁄Bulk-API-patch)
 * [PRODSECBUG-2432](patches/PRODSECBUG-2432)
