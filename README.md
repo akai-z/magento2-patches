@@ -9,7 +9,7 @@ A guide for applying patches through [Composer](https://getcomposer.org/) could 
 
 ## Patches List
 
-* [Catalog pagination issue on Elasticsearch 6.x](patches/Catalog-pagination-issue-on-Elasticsearch-6.x)
+* [Catalog pagination issue on Elasticsearch 6.x patch for Magento 2.3.3](patches/Catalog-pagination-issue-on-Elasticsearch-6.x-patch-for-Magento-2.3.3)
 * [EmailMessageInterface backward compatibility issue patch for Magento 2.3.3](patches/EmailMessageInterface-backward-compatibility-issue-patch-for-Magento-2.3.3)
 * [Fixed method chaining contract for Product Collection patch for Magento 2.3.3](patches/Fixed-method-chaining-contract-for-Product-Collection-patch-for-Magento-2.3.3)
 * [PRODSECBUG-2233](patches/PRODSECBUG-2233)
