@@ -5,7 +5,7 @@ Or you could obtain the patches, their checksums
 and the Magento versions they support from this [link](https://www.magentocommerce.com/products/downloads/info/filter/type/ce-patch).  
 More details about the link and how it could be accessed could be found [here](https://gist.github.com/piotrekkaminski/9bc45ec84028611d621e).
 
-A guide for applying patches through [Composer](https://getcomposer.org/) could be found [here](https://support.magento.com/hc/en-us/articles/360005484154-Create-a-patch-for-a-Magento-2-Composer-installation-from-a-GitHub-commit#apply-a-patch).
+A guide for applying patches through [Composer](https://getcomposer.org/) could be found [here](https://devdocs.magento.com/guides/v2.3/comp-mgr/patching.html#applying-patches).
 
 ## Patches List
 
