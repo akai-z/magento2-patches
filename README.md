@@ -9,6 +9,7 @@ A guide for applying patches through [Composer](https://getcomposer.org/) could 
 
 ## Patches List
 
+* [PayPal Express Checkout issue with region patch for Magento 2.3.4](patches/PayPal-Express-Checkout-issue-with-region-patch-for-Magento-2.3.4)
 * [Catalog pagination issue on Elasticsearch 6.x patch for Magento 2.3.3](patches/Catalog-pagination-issue-on-Elasticsearch-6.x-patch-for-Magento-2.3.3)
 * [EmailMessageInterface backward compatibility issue patch for Magento 2.3.3](patches/EmailMessageInterface-backward-compatibility-issue-patch-for-Magento-2.3.3)
 * [Fixed method chaining contract for Product Collection patch for Magento 2.3.3](patches/Fixed-method-chaining-contract-for-Product-Collection-patch-for-Magento-2.3.3)
