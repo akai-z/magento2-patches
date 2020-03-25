@@ -9,6 +9,7 @@ A guide for applying patches through [Composer](https://getcomposer.org/) could 
 
 ## Patches List
 
+* [Remove failed login attempts from the database patch for Magento 2.3.0 - 2.3.2p1](patches/Remove-failed-login-attempts-from-the-database-patch-for-Magento-2.3.0-2.3.2p1)
 * [PayPal Express Checkout issue with region patch for Magento 2.3.4](patches/PayPal-Express-Checkout-issue-with-region-patch-for-Magento-2.3.4)
 * [Catalog pagination issue on Elasticsearch 6.x patch for Magento 2.3.3](patches/Catalog-pagination-issue-on-Elasticsearch-6.x-patch-for-Magento-2.3.3)
 * [EmailMessageInterface backward compatibility issue patch for Magento 2.3.3](patches/EmailMessageInterface-backward-compatibility-issue-patch-for-Magento-2.3.3)
