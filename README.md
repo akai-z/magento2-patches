@@ -1,8 +1,7 @@
 This is a Magento Open Source 2.x patches mirror repository.  
 The original (official) source could be found [here](https://magento.com/tech-resources/download).
 
-Alternatively, the patch files, their checksums  
-and the Magento versions they support could be obtained from this [link](https://www.magentocommerce.com/products/downloads/info/filter/type/ce-patch).  
+Alternatively, the patch files and their checksums could be obtained from this [link](https://www.magentocommerce.com/products/downloads/info/filter/type/ce-patch).  
 More details about this alternative method could be found [here](https://gist.github.com/piotrekkaminski/9bc45ec84028611d621e).
 
 A guide for applying patches through [Composer](https://getcomposer.org/) could be found [here](https://devdocs.magento.com/guides/v2.3/comp-mgr/patching.html#applying-patches).
