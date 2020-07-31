@@ -8,6 +8,7 @@ A guide for applying patches through [Composer](https://getcomposer.org/) could 
 
 ## Patches List
 
+* [MC-35514](patches/MC-35514)
 * [Patch for specific country payment method issue for Magento 2.3.5-p1](patches/Specific-country-payment-method-issue-patch-for-Magento-2.3.5-p1)
 * [Patch for Amazon Pay issue with payment method selection on checkout for Magento 2.3.5-p1](patches/Amazon-Pay-issue-with-payment-method-selection-on-checkout-patch-for-Magento-2.3.5-p1)
 * [Resend account confirmation email link issue patch for Magento 2.3.5](patches/Resend-account-confirmation-email-link-issue-patch-for-Magento-2.3.5)
