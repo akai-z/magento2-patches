@@ -8,6 +8,7 @@ A guide for applying patches through [Composer](https://getcomposer.org/) could 
 
 ## Patches List
 
+* [BUNDLE-2683 Braintree Settlement Report patch](patches/BUNDLE-2683-Braintree-Settlement-Report-patch)
 * [MC-35984](patches/MC-35984)
 * [MC-35514](patches/MC-35514)
 * [Patch for specific country payment method issue for Magento 2.3.5-p1](patches/Specific-country-payment-method-issue-patch-for-Magento-2.3.5-p1)
