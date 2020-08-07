@@ -8,7 +8,6 @@ A guide for applying patches through [Composer](https://getcomposer.org/) could 
 
 ## Patches List
 
-* [BUNDLE-2684 Dotdigital Integration Tests patch](patches/BUNDLE-2684-Dotdigital-Integration-Tests-patch)
 * [BUNDLE-2670 Braintree Virtual Terminal patch](patches/BUNDLE-2670-Braintree-Virtual-Terminal-patch)
 * [BUNDLE-2683 Braintree Settlement Report patch](patches/BUNDLE-2683-Braintree-Settlement-Report-patch)
 * [MC-35984](patches/MC-35984)
