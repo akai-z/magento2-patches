@@ -25,7 +25,7 @@ A guide for applying patches through [Composer](https://getcomposer.org/) could 
 * [PRODSECBUG-2432](patches/PRODSECBUG-2432)
 * [Admin Dashboard Image-Charts API Composer Patch](patches/Admin-Dashboard-Image-Charts-API-Composer-Patch)
 * [PRODSECBUG-2198](patches/PRODSECBUG-2198)
-* [Authorize.Net Direct Post Signature Key Patch](patches/Authorizenet-Direct-Post-Signature-Key-Patch)
+* [Authorize.Net Direct Post Signature Key patch](patches/Authorizenet-Direct-Post-Signature-Key-patch)
 * [MAGETWO-95591](patches/MAGETWO-95591)
 * [MAGETWO-93083](patches/MAGETWO-93083)
 * [MAGETWO-93036](patches/MAGETWO-93036)
