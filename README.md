@@ -23,7 +23,7 @@ A guide for applying patches through [Composer](https://getcomposer.org/) could 
 * [PRODSECBUG-2233](patches/PRODSECBUG-2233)
 * [Scope parameter for Async/Bulk API patch](patches/Scope-parameter-Async⁄Bulk-API-patch)
 * [PRODSECBUG-2432](patches/PRODSECBUG-2432)
-* [Admin Dashboard Image-Charts API Composer Patch](patches/Admin-Dashboard-Image-Charts-API-Composer-Patch)
+* [Admin Dashboard Image-Charts API Composer patch](patches/Admin-Dashboard-Image-Charts-API-Composer-patch)
 * [PRODSECBUG-2198](patches/PRODSECBUG-2198)
 * [Authorize.Net Direct Post Signature Key patch](patches/Authorizenet-Direct-Post-Signature-Key-patch)
 * [MAGETWO-95591](patches/MAGETWO-95591)
