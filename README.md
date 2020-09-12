@@ -1,4 +1,4 @@
-This is a Magento Open Source 2.x patches mirror repository.  
+This is a Magento 2.x patches mirror repository.  
 The original (official) source could be found [here](https://magento.com/tech-resources/download).
 
 Alternatively, the patch files and their checksums could be obtained from this [link](https://www.magentocommerce.com/products/downloads/info/filter/type/ce-patch).  
